@@ -1,0 +1,7 @@
+39 16 30 5 * php C:\xampp\htdocs\Veggo-API/artisan notification:send 1608
+0 18 2 6 * php C:\xampp\htdocs\Veggo-API/artisan notification:send 1612
+42 3 16 6 * php C:\xampp\htdocs\Veggo-API/artisan segmented-notification:send 12
+0 4 16 6 * php C:\xampp\htdocs\Veggo-API/artisan segmented-notification:send 13
+42 4 16 6 * php C:\xampp\htdocs\Veggo-API/artisan segmented-notification:send 15
+53 4 16 6 * php C:\xampp\htdocs\Veggo-API/artisan segmented-notification:send 16
+15 10 8 7 * php C:\xampp\htdocs\Veggo-API/artisan notification:send 1635
